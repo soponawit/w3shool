@@ -1,0 +1,84 @@
+.foot{
+    background-color: rgb(13,23,33)!important;
+   
+   
+}
+.icon{
+    margin-left:1600px;
+}
+.icon1{
+    margin-left: 50px;
+    margin-top: 27px;
+
+}
+.icon2{
+    margin-left: 50px;
+    margin-top: 27px;
+
+}
+.icon3  {
+    margin-left: 50px;
+    margin-top: 27px;
+
+}
+.btn1{
+    background-color: #1d2a35!important;
+    color: white;
+    font-size: 18px;
+    width: 100px;
+    margin-top: 50px;
+    margin-left:30px;
+ 
+}
+.btn2{
+    background-color: #1d2a35!important;
+    color: white;
+    font-size: 18px;
+    width: 120px;
+    margin-left: 21px;
+}
+.btn3{
+    background-color: #1d2a35!important;
+    color: white;
+    font-size: 18px;
+    width: 140px;
+    margin-left: 21px;
+}
+.btn4{
+    background-color: #1d2a35!important;
+    color: white;
+    font-size: 18px;
+    width: 110px;
+    margin-left: 21px;
+}
+.btn5{
+    background-color: #1d2a35!important;
+    color: white;
+    font-size: 18px;
+    width: 108px;
+    margin-left: 21px;
+}
+.btn6{
+    background-color: #1d2a35!important;
+    color: white;
+    font-size: 18px;
+    width: 100px;
+    margin-left: 21px;
+}
+.btn7{
+    background-color: #1d2a35!important;
+    color: white;
+    font-size: 18px;
+    width: 140px;
+    margin-left: 21px;
+}
+.text11{
+    margin-left: 1650px;
+    letter-spacing: 4px;
+}
+.ht{
+    font-size: 15px!important;
+    margin-top: 1.2em;
+    margin-bottom: 1.2em;
+    text-align: center;
+}
